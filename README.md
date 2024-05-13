@@ -7,3 +7,7 @@ NotesApp is a simple cross-platform application designed to assist users in crea
 - Delete notes that are no longer needed.
 - Organize notes by categories or labels.
 - Intuitive and user-friendly interface.
+## Notes
+This is a common project, I was developing a backend.\
+Technology stack: Spring Boot, Starters: Web, Data-JPA, Test.\
+Spring Security, Hibernate, PostgreSQL, Junit 4, Mockito were also used.
